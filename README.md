@@ -3,7 +3,7 @@
 
 # Driver Implemented:  
 1-DIO driver
-2-LCD driver  
+2-LCD driver     
 3-ADC driver  
 
 # How it works ?  
