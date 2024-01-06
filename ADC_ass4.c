@@ -92,7 +92,7 @@ int main ()
 			LCD_voidWriteSpecialChar(1,&Hamosha1E,1,15);
 			LCD_voidWriteSpecialChar(2,&Hamosha2E,1,14);
 			LCD_u8GoToXY(2,0);
-			LCD_voidWriteString("evening");
+			LCD_voidWriteString("Evening");
 			_delay_ms(1000);
 
 		}
@@ -104,7 +104,7 @@ int main ()
 			LCD_voidWriteSpecialChar(1,&Hamosha1M,1,9);
 			LCD_voidWriteSpecialChar(2,&Hamosha2M,2,9);
 			LCD_u8GoToXY(2,0);
-			LCD_voidWriteString("morning");
+			LCD_voidWriteString("Morning");
 			_delay_ms(1000);
 		}
 		Local_OldValue= Local_u16AnalogValue;
