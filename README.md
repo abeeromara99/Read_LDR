@@ -2,7 +2,7 @@
 -This project utilizes Atmega32 microcontroller,LDR sensor,LCD (16x2)character.
 
 # Driver Implemented:  
-1-DIO driver
+1-DIO driver  
 2-LCD driver     
 3-ADC driver  
 
